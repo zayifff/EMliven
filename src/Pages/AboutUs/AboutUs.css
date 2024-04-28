@@ -1,0 +1,15 @@
+.aboutus{
+    margin-top: 10px;
+}
+.aboutus-title{
+    font-weight: 600;
+}
+.aboutus p{
+    margin-bottom: 10px;
+    color: black;
+    font-weight: 500;
+}
+.aboutus ul li{
+    margin-top: 2px;
+    list-style: none;
+}
